@@ -1,0 +1,13 @@
+baseURL: https://example.org/
+languageCode: en-us
+title: Zigurat
+theme: ["PaperMod"]
+
+params:
+  profileMode:
+    enabled: true
+    subtitle: "hello@zigurat.me"
+    imageUrl: "/images/coa.png" # optional
+    imageTitle: "Zig" # optional
+    imageWidth: 520 # custom size
+    imageHeight: 520 # custom size
