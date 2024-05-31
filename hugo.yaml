@@ -1,6 +1,6 @@
-baseURL: https://example.org/
+baseURL: https://zigurat.me/
 languageCode: en-us
-title: Zigurat
+#title: Zigurat
 theme: ["PaperMod"]
 
 params:
